@@ -9,7 +9,7 @@ html, body, .extended {
     background: linear-gradient(270deg, #0008A5, #00056A);
     background-size: 400% 400%;
 
-    animation: AnimationName 30s ease infinite;
+    animation: AnimationName 10s ease-in-out infinite;
 }
 
 @keyframes AnimationName {
